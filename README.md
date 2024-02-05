@@ -5,6 +5,8 @@ This repository contains all information related to Jaxon Topel's research and w
 
 #### Projects
 
+- Design a Missile Guidance system using Matlab & Simulink.
+
 #### Books Read
 
 #### Work and Experience
