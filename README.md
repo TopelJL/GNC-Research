@@ -7,7 +7,11 @@ I Began taking my research in this field seriously in February 2024. For a coupl
 
 #### Books Read
 
-- Control System Design by Bernard Friedland
+- Control System Design by Bernard Friedland (Current)
+- Tactical and Strategic Missile Guidance by Paul Zarchan(Planned)
+- Modern Navigation, Guidance, and Control Processing  by Ching-Fang Lin (Planned)
+- Automatic Control of Aircraft and Missiles by John H. Blakelock (Planned)
+- Advances in Missile Guidance Theory by Joseph Z. Ben-Asher and Isaac Yaesh (Planned)
 
 #### Work and Experience
 
